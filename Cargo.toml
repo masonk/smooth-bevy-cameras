@@ -38,7 +38,7 @@ features = [
 ]
 
 [target.'cfg(target_os = "linux")'.dev-dependencies.bevy]
-version = "0.14.0-rc.3"
+version = "0.14.0-rc.4"
 features = [
     "bevy_asset",
     "bevy_core_pipeline",
